@@ -1,0 +1,25 @@
+
+
+
+.imagepos{
+display: block;
+} 
+
+.links {
+    width:100%;
+    margin-top: 150px;
+    text-align:center;
+} 
+
+ .dotted{
+     border:2px dashed black;
+     color:black;
+     float:left;
+     width: 220px;
+     height: 150px;
+     padding: 3px 0;
+     text-align: center;
+     margin-right: 50px;
+     font-family:Arial, Helvetica, sans-serif;
+ 
+ }
